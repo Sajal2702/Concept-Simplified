@@ -1,5 +1,3 @@
-<p align=centre>
-  
 Task 01 Mobile Signup Flow
 ![Task 01](https://i.ibb.co/4K25DDN/Task-01.png)
 
